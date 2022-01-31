@@ -3,6 +3,7 @@ Tests are written in JS and Cypress
 
 ## How to open
 'npx cypress open' - to open with runner
+
 Available browsers: Chrome 97, Edge 97, Electron 94
 
 'npx cypress run' - to open with headless mode

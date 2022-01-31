@@ -27,4 +27,6 @@ Commands that will output unique text have to be written:
 - without any additional space
 - are case sensitive
 - only the echo command is not hardcoded to output exactly the same data
-- adding additional signs like '-' '.' will brake the command
+- adding additional signs like '-', '.' etc. will brake the command
+
+Div with data output is not fully responsive when opened on devices with a screen width lower than 700px

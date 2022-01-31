@@ -6,6 +6,7 @@ Tests are written in JS and Cypress
 
 Available browsers: Chrome 97, Edge 97, Electron 94
 
+
 'npx cypress run' - to open with headless mode
 
 ## Test cases:

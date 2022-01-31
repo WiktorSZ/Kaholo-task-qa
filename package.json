@@ -1,0 +1,26 @@
+{
+  "name": "kaholo-task",
+  "version": "1.0.0",
+  "description": "QA task",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WiktorSZ/Kaholo-task-qa.git"
+  },
+  "keywords": [
+    "qa",
+    "task"
+  ],
+  "author": "Wiktor Szczepaniak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WiktorSZ/Kaholo-task-qa/issues"
+  },
+  "homepage": "https://github.com/WiktorSZ/Kaholo-task-qa#readme",
+  "dependencies": {
+    "cypress": "^9.3.1"
+  }
+}

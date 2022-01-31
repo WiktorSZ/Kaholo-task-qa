@@ -10,7 +10,7 @@ Tests are written in JS and Cypress
 If using npm install
 * Node.js 12 or 14 and above
 
-### ClI
+### CLI
 
 'npx cypress open' - to open with runner
 
